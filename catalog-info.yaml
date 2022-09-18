@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: bogdanv28/test-backstage
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: testing
   owner: Bogdan Vlas
